@@ -55,7 +55,7 @@
  <br>
  <h4> Why I chose Computer Science? </h4>
  
- Both my parents graduated , my dad being an Engineer and my mom a Computer Science Teacher. My background allowed me this opportunity to explore the world of computer science. <br>
+ Both my parents graduated , my dad being an Engineer and my mom a Computer Science teacher. My background allowed me this opportunity to explore the world of computer science. <br>
  <br>
  A great deal of effort and a never-ending search for the best branch in computer science took me to, Data Science and Artificial Intelligence. Being passionate about exploring new paths, I came across Machine Learning algorithms and fell for it. 
  <br>
