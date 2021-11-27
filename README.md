@@ -18,7 +18,9 @@
 
 - 💼 Actively Seeking **internship opportunities**
 
-- 👯 [End to End Machine learning Applications](https://github.com/sahilobhrai/End-to-end-ml-applications) 
+- 👯 [Find my CV here](https://github.com/sahilobhrai/Resume) 
+
+- [ connect with me on my email](sahilobhrai19@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
