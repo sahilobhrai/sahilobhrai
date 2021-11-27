@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on : [Data Structures and Algorithms](https://github.com/sahilobhrai/Data-Structures-and-Algorithms)
 
-- 🌱 I’m currently learning  : [End to End Machine learning Applications](https://github.com/sahilobhrai/Data-Structures-and-Algorithms)
+- 🌱 I’m currently learning  : [End to End Machine learning Applications](https://github.com/sahilobhrai/End-to-end-ml-applications)
 
 - 👯 Open to **collaborate**
 
