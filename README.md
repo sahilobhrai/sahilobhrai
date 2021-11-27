@@ -18,9 +18,8 @@
 
 - 💼 Actively Seeking **internship opportunities**
 
-- 👯 [Find my CV here](https://github.com/sahilobhrai/Resume/blob/main/resume.pdf) 
+- 👯 [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/resume.pdf) 
 
-- [ connect with me on my email](sahilobhrai19@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
