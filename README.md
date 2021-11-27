@@ -18,6 +18,8 @@
 
 - 💼 Actively Seeking **internship opportunities**
 
+- 👯 [End to End Machine learning Applications](https://github.com/sahilobhrai/End-to-end-ml-applications) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
