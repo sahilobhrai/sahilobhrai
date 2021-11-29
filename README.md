@@ -18,6 +18,8 @@
 
 - 💼 Actively Seeking **internship opportunities**
 
+- 📫 Reach me at **sahilobhrai19@gmail.com**
+
 - :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/resume.pdf) 
 
 
