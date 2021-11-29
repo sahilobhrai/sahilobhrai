@@ -18,7 +18,7 @@
 
 - 💼 Actively Seeking **internship opportunities**
 
-- 👯 [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/resume.pdf) 
+- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/resume.pdf) 
 
 
 
