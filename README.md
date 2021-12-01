@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning  : [End to End Machine learning Applications](https://github.com/sahilobhrai/End-to-end-ml-applications)
 
-- :nerd_face: my projects : [ projects list ](https://github.com/sahilobhrai/projects)
+- :nerd_face: Find my projects here : [ projects list ](https://github.com/sahilobhrai/projects)
 
 - 👯 Open to **collaborate**
 
