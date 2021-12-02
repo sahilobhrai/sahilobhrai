@@ -10,9 +10,9 @@
 
 ### I'm a CS undergrad.
 
-- 🔭 I’m currently working on : [Data Structures and Algorithms](https://github.com/sahilobhrai/Data-Structures-and-Algorithms)
+- 🔭 I’m currently working on : **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning  : [End to End Machine learning Applications](https://github.com/sahilobhrai/End-to-end-ml-applications)
+- 🌱 I’m currently learning  :  **End to End Machine learning Applications**
 
 - :nerd_face: Find my projects here : [ projects list ](https://github.com/sahilobhrai/projects)
 
