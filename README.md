@@ -4,7 +4,7 @@
 #### Profile Visits :
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sahilobhrai.sahilobhrai&left_color=grey&right_color=blue)
 
- <img src="https://magiccopy.xyz/assets/images/hadder.gif" align="right"  width="42%"/>
+ <img src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" align="right"  width="42%"/>
 
 
 
