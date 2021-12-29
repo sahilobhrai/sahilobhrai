@@ -10,7 +10,7 @@
 
 ### I'm a CS undergrad.
 
-- 🔭 I’m currently working on : **Data Structures and Algorithms**
+- 🔭 I’m currently working on : **Full Stack Web Development**
 
 - 🌱 I’m currently learning  :  **End to End Machine learning Applications**
 
