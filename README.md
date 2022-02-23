@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on : **Full Stack Web Development**
 
-- 🌱 I’m currently learning  :  **React and Firebase**
+- 🌱 I’m currently learning :  **React and Firebase**
 
 - :nerd_face: Find my projects here : [ projects list ](https://github.com/sahilobhrai/projects)
 
