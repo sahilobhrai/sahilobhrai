@@ -22,7 +22,7 @@
 
 - 📫 Reach me at **sahilobhrai19@gmail.com**
 
-- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/Sahil's%20Resume%20DS.pdf)  
+- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/Sahil's%20Resume%20DS%20new.pdf)  
 
 
 
