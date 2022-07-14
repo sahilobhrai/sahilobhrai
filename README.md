@@ -10,9 +10,9 @@
 
 ### I'm a CS undergrad.
 
-- 🔭 I’m currently working on : **DSA**
+- 🔭 I’m currently working on : **Software Development**
 
-- 🌱 I’m currently learning :  **Full Stack Web Development**
+- 🌱 I’m currently learning :  **React.js**
 
 - :nerd_face: Find my projects here : [ projects list ](https://github.com/sahilobhrai/projects)
 
@@ -22,7 +22,7 @@
 
 - 📫 Reach me at **sahilobhrai19@gmail.com**
 
-- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/Sahil's%20Resume%20DS%20new.pdf)  
+- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/Sahil's%20Webdev%20Resume%20updated.pdf)  
 
 
 
