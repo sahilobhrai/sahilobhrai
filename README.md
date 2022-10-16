@@ -6,6 +6,7 @@
 
  <img src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" align="right"  width="42%"/>
 
+![GitHub](https://img.shields.io/github/license/Rajatm544/MERN-Blog-App?style=flat-square) ![Heroku](https://pyheroku-badge.herokuapp.com/?app=mern-blog-it&path=/&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/Rajatm544/Mern-Blog-App?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 ### I'm a CS undergrad.
