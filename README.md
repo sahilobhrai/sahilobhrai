@@ -77,6 +77,6 @@
  <br> <br>i love designing logic for problems, here are some languages i used: <br> <br>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilobhrai&show_icons=true&locale=en&layout=compact&langs_count=10&hide=Jupyter Notebook" alt="sahilobhrai" /></p>
  
- [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilobhrai)](https://github.com/sahilobhrai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilobhrai&layout=compact)](https://github.com/sahilobhrai/github-readme-stats)
 
 </details>
