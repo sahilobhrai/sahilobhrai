@@ -75,8 +75,8 @@
 <h4> Side interests / hobbies :  </h4>
  The love for Web series , Working out , Anime , Physical Activities , Exploring Life was always my forte.  
  <br> <br>i love designing logic for problems, here are some languages i used: <br> <br>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilobhrai&show_icons=true&locale=en&layout=compact&langs_count=10&hide=Jupyter Notebook" alt="sahilobhrai" /></p>
+
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilobhrai&layout=compact)](https://github.com/sahilobhrai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilobhrai&layout=compact&langs_count=10&hide=Jupyter Notebook)](https://github.com/sahilobhrai/github-readme-stats)
 
 </details>
