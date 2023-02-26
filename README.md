@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on : **Software Development**
 
-- 🌱 I’m currently learning :  **React.js**
+- 🌱 I’m currently learning :  **React Js**
 
 - :nerd_face: Find my projects here : [ projects list ](https://github.com/sahilobhrai/projects)
 
 - 👯 Open to **collaborate**
 
-- 💼 Actively Seeking **internship opportunities**
+- 💼 Actively Seeking **Job/ Internship opportunities**
 
 - 📫 Reach me at **sahilobhrai19@gmail.com**
 
-- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/Sahil's%20Webdev%20Resume%20updated.pdf)  
+- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/latest%20resume%203.pdf)  
 
 
 
