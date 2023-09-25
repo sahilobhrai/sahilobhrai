@@ -7,11 +7,11 @@
  <img src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" align="right"  width="42%"/>
 
 
-### I'm a CS undergrad.
+### I'm a Professional Engineer @Samsung.
 
 - 🔭 I’m currently working on : **Software Development**
 
-- 🌱 I’m currently learning :  **React Js**
+- 🌱 I’m currently learning :  **DevOps**
 
 - :nerd_face: Find my projects here : [ projects list ](https://github.com/sahilobhrai/projects)
 
@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **sahilobhrai19@gmail.com**
 
-- :raising_hand: [Find my Resume here](https://github.com/sahilobhrai/Resume/blob/main/latest%20resume%203.pdf)  
+- :raising_hand: [Find my Resume here](https://drive.google.com/file/d/133KlsKLMyKB1upkNmldm2VcWkw7HcRCI/view?usp=sharing)  
 
 
 
