@@ -12,7 +12,7 @@
 
 - 👯 Open to **collaborate**
 
-- 💼 Actively Seeking **Job/ Internship opportunities**
+- 💼 Actively Seeking **Job opportunities**
 
 - 📫 Reach me at **sahilobhrai19@gmail.com**
 
