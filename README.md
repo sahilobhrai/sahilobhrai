@@ -2,7 +2,7 @@
 
  <img src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" align="right"  width="42%"/>
 
-***I'm a Professional Engineer at Samsung.***
+***I'm a Software Engineer at Samsung.***
 
 - 🔭 I’m currently working on : **Software Development**
 
